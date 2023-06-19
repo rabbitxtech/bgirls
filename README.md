@@ -5,6 +5,10 @@ First, create .env.local file similar to .env.sample file or change name from .e
 ```bash 
 DATABASE_URL=<your-mongodb-url>
 ```
+Install libaries, run command:
+```bash
+npm install
+```
 Run the development server:
 
 ```bash
